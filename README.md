@@ -12,7 +12,7 @@ A macOS AppleScript to add multiple reminders to Apple Reminders, each with opti
 
 Buy milk @ tomorrow
 Finish taxes @ 2024-04-15
-Call Hyeseong @ next Friday
+Call HS @ next Friday
 
 ## Documentation
 See the included [Bulk_Reminder_Creator_Documentation.pdf](./Bulk_Reminder_Creator_Documentation.pdf) for full details.
